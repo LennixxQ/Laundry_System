@@ -1,0 +1,12 @@
+DATABASE = "mongodb+srv://admin123:admin123@cluster0.zgdgk8b.mongodb.net/test"
+
+
+CLIENT_ID = "444430614353-3o6fuahjd1m3oa6fq6523t1b54qv3kji.apps.googleusercontent.com"
+
+
+CLIENT_SECRET = "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"
+
+
+REFRESH_TOKEN = "1//04JEVCdOI82ukCgYIARAAGAQSNwF-L9IrqnhbZrN6Zvl0KYnZB5KhzPawczewJjHPQY2_IalnzdhOL7TJxLNGoEiOjplTTgK8syI"
+
+
